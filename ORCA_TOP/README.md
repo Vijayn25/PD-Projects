@@ -1,11 +1,11 @@
-Technology : 14nm or 28nm 
-Metal layers : 9 metal layers 
-standard cell count : 50k
-Macros : 40 
-No of clocks : 5 clocks
-Max frequency : 450 MHz 
-Number power domain : 2 
-			Summary 
+## Technology : 14nm or 28nm 
+## Metal layers : 9 metal layers 
+## standard cell count : 50k
+## Macros : 40 
+## No of clocks : 5 clocks
+## Max frequency : 450 MHz 33 
+## Number power domain : 2 
+                                Summary 
 				a) Imported design using NDM methods
 				b) Performed sanity checks 
 				c) Performed different iteraration for creating core area and die area 
